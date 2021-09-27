@@ -1,0 +1,27 @@
+h1 {
+    color:rgb(8, 114, 114)
+}
+.bold {color:white;
+background-color:turquoise;
+font-weight: 900;
+}
+
+#beg {color:rgb(3, 88, 94);
+    font-weight: 800;
+
+}
+#top-accent p{ 
+   outline-width: thick; 
+   background-color: #e5c2e5;
+   color:rgb(5, 105, 97); 
+   background-origin: border-box;
+   font-size: medium;
+}
+body{
+    background-color:#8cf0eb;}
+    span.title {
+        background-color:rgb(247, 162, 162);
+        color:rgb(6, 86, 88); 
+        font-size: large;
+        font-weight: bold;
+    }
